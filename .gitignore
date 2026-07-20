@@ -1,0 +1,7 @@
+# Arquivos locais
+.DS_Store
+*.log
+
+# Ambiente local
+.vscode/
+__pycache__/
